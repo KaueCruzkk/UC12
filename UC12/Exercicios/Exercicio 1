@@ -1,0 +1,7 @@
+1. Qual componente executa programas Java?
+2. Qual componente fornece ambiente de execução?
+3. Qual componente fornece ferramentas para desenvolvimento?
+
+1. o JVM
+2. o JRE
+3. o JDK
